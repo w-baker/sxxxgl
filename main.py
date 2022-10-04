@@ -8,6 +8,3 @@ if __name__ == '__main__':  # 系统入口函数
     myWin = WelcomeWindow()
     myWin.show()
     sys.exit(app.exec_())
-
-if __name__ == '__main__':
-    pass
